@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  display: inline;
+}
+
+#start {
+  margin: 10px;
+}
